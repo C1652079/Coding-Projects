@@ -1,7 +1,7 @@
-Data Table Trainee Assessment
+Temperature Conversion
 ==============================
 
-Standard JavaScript, HTML and CSS Code to take data from a JSON file and display it in a webpage as a HTML Table and also generate Graphs for the same data.
+Machine Code to do a simple conversion between C and F degrees which has a Terminal Interface.
 
 - Kuber Kalra
 - kuber_kalra@ymail.com
